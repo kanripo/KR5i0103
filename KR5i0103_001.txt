@@ -1,7 +1,8 @@
 #-*- mode: org; -*-
-#+DATE: 2015-08-29 17:59:16.865082
+#+DATE: 2015-08-29 17:59:17.118303
 #+PROPERTY: ID KR5i0103
-#+TITLE: 靑城山記 Qingcheng Shan Ji
+#+TITLE: 青城山記
+#+PROPERTY: pinyin Qingcheng Shan Ji
 #+PROPERTY: BASEEDITION CK-KZ
 #+PROPERTY: WITNESS CK-KZ
 <pb:CK-KZ_KR5i0103_01p001a>¶
